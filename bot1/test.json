@@ -1,0 +1,52 @@
+{
+  "resource": "/botkitmessenger",
+  "path": "/botkitmessenger",
+  "httpMethod": "POST",
+  "headers": {
+    "CloudFront-Forwarded-Proto": "https",
+    "CloudFront-Is-Desktop-Viewer": "true",
+    "CloudFront-Is-Mobile-Viewer": "false",
+    "CloudFront-Is-SmartTV-Viewer": "false",
+    "CloudFront-Is-Tablet-Viewer": "false",
+    "CloudFront-Viewer-Country": "US",
+    "Content-Type": "application/json",
+    "Host": "uml0653di0.execute-api.us-east-1.amazonaws.com",
+    "Via": "1.1 e0361d2450a4995d92d661bf6b825ede.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "B_cWgMEhL2kqRqQr4kGo4yB0FiFES4IBGi3XwonC3soB0zBbZdsO1A==",
+    "X-Amzn-Trace-Id": "Root=1-5a714b61-41bf87f54ad839d41d87bb2c",
+    "X-Forwarded-For": "35.171.6.131, 54.240.144.65",
+    "X-Forwarded-Port": "443",
+    "X-Forwarded-Proto": "https"
+  },
+  "queryStringParameters": null,
+  "pathParameters": null,
+  "stageVariables": null,
+  "requestContext": {
+    "requestTime": "31/Jan/2018:04:51:45 +0000",
+    "path": "/prod/botkitmessenger",
+    "accountId": "909242206019",
+    "protocol": "HTTP/1.1",
+    "resourceId": "b7ygux",
+    "stage": "prod",
+    "requestTimeEpoch": 1517374305879,
+    "requestId": "706fe6a6-0642-11e8-83ed-4dfe6986c0df",
+    "identity": {
+      "cognitoIdentityPoolId": null,
+      "accountId": null,
+      "cognitoIdentityId": null,
+      "caller": null,
+      "sourceIp": "35.171.6.131",
+      "accessKey": null,
+      "cognitoAuthenticationType": null,
+      "cognitoAuthenticationProvider": null,
+      "userArn": null,
+      "userAgent": null,
+      "user": null
+    },
+    "resourcePath": "/botkitmessenger",
+    "httpMethod": "POST",
+    "apiId": "uml0653di0"
+  },
+  "body": "{\"resource\":\"/GW\",\"path\":\"/GW\",\"httpMethod\":\"POST\",\"headers\":{\"Accept\":\"*/*\",\"Accept-Encoding\":\"deflate, gzip\",\"CloudFront-Forwarded-Proto\":\"https\",\"CloudFront-Is-Desktop-Viewer\":\"true\",\"CloudFront-Is-Mobile-Viewer\":\"false\",\"CloudFront-Is-SmartTV-Viewer\":\"false\",\"CloudFront-Is-Tablet-Viewer\":\"false\",\"CloudFront-Viewer-Country\":\"US\",\"Content-Type\":\"application/json\",\"Host\":\"uml0653di0.execute-api.us-east-1.amazonaws.com\",\"Via\":\"1.1 88eb066576c1b47cd896ab0019b9f25f.cloudfront.net (CloudFront)\",\"X-Amz-Cf-Id\":\"oKKfQ2BgHJZtbMleq9WcuwFkdi-cBqB5LpS3yhVOVSRU7U0MEMjsWw==\",\"X-Amzn-Trace-Id\":\"Root=1-5a714b61-2eec5ea90d6e60e86c410218\",\"X-Forwarded-For\":\"66.220.146.31, 52.46.17.86\",\"X-Forwarded-Port\":\"443\",\"X-Forwarded-Proto\":\"https\",\"X-Hub-Signature\":\"sha1=b7bfce4c59da58b4f02a6a796a3b015777087112\"},\"queryStringParameters\":null,\"pathParameters\":null,\"stageVariables\":null,\"requestContext\":{\"requestTime\":\"31/Jan/2018:04:51:45 +0000\",\"path\":\"/prod/GW\",\"accountId\":\"909242206019\",\"protocol\":\"HTTP/1.1\",\"resourceId\":\"9korij\",\"stage\":\"prod\",\"requestTimeEpoch\":1517374305860,\"requestId\":\"706d00d3-0642-11e8-93f9-b56543f7181e\",\"identity\":{\"cognitoIdentityPoolId\":null,\"accountId\":null,\"cognitoIdentityId\":null,\"caller\":null,\"sourceIp\":\"66.220.146.31\",\"accessKey\":null,\"cognitoAuthenticationType\":null,\"cognitoAuthenticationProvider\":null,\"userArn\":null,\"userAgent\":null,\"user\":null},\"resourcePath\":\"/GW\",\"httpMethod\":\"POST\",\"apiId\":\"uml0653di0\"},\"body\":\"{\\\"object\\\":\\\"page\\\",\\\"entry\\\":[{\\\"id\\\":\\\"1249100721847943\\\",\\\"time\\\":1517374305747,\\\"messaging\\\":[{\\\"sender\\\":{\\\"id\\\":\\\"1409240479118015\\\"},\\\"recipient\\\":{\\\"id\\\":\\\"1249100721847943\\\"},\\\"timestamp\\\":1517374305727,\\\"delivery\\\":{\\\"mids\\\":[\\\"mid.$cAARwDMcsgYRne9O2klhSo5tsp43F\\\"],\\\"watermark\\\":1517374303890,\\\"seq\\\":0}}]}]}\",\"isBase64Encoded\":false}",
+  "isBase64Encoded": false
+}

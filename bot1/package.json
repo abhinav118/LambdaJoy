@@ -1,0 +1,21 @@
+{
+  "name": "imdb-bot",
+  "version": "0.0.1",
+  "description": "IMDB Facebook Messenger Bot",
+  "author": "David Kelley",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davidkelley/imdb-bot"
+  },
+  "dependencies": {
+    "botkit": "^0.2.2",
+    "fs": "0.0.1-security",
+    "node-env-file": "^0.1.8",
+    "omdb": "^0.6.1",
+    "path": "^0.12.7",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "STEEP",
+    "pos_type": "square",
+    "page_token": "EAAa3rjvslPEBALWjIZCKU5IJQcs25JIAtGvGjRwc4ZAfNHI1yDiqCpMF0Fmk6YOaiXR0r4ZCjDyBydSH2wNnmIeYNvz8UGbgIzCm3qSPe707UDKwPYKVhxYkbOqPotgiqlApDP7CY0ZAyRZAEJrjX1k7FUxH5BgNSHMzC2QCoswZDZD",
+    "page_id": "996502603827009",
+    "page_picture": [
+      "https://scontent-atl3-1.xx.fbcdn.net/v/t31.0-8/21055937_751993558317593_5146325322411466746_o.jpg?oh=617937698804ea668c2b5167fad5f266&oe=5A4D7531",
+      "https://scontent-atl3-1.xx.fbcdn.net/v/t31.0-8/20229716_736162716567344_8300090306879866688_o.jpg?oh=ef5effe11707dd6c61e67f75629b8d25&oe=5A453755",
+      "https://scontent-atl3-1.xx.fbcdn.net/v/t31.0-8/18953511_716242958559320_4015504055810388617_o.jpg?oh=3bdebcd300504df0ff25a926fb92fd93&oe=5A3E8F58"
+    ],
+    "page_picture": [
+      "https://d2isyty7gbnm74.cloudfront.net/unsafe/1292x1292/https://square-production.s3.amazonaws.com/files/8a74baee4eeddb2df68eaf56963dec9513bb5f09/original.jpeg",
+      "https://d2isyty7gbnm74.cloudfront.net/unsafe/1292x1292/https://square-production.s3.amazonaws.com/files/2745d0c52f0a632aee926579a139ff2443de1601/original.jpeg",
+      "https://d2isyty7gbnm74.cloudfront.net/unsafe/1292x1292/https://square-production.s3.amazonaws.com/files/7d3495d17a2c0a0e3655abb3c3ebe523bdd3c3d1/original.jpeg",
+      "https://d2isyty7gbnm74.cloudfront.net/unsafe/1292x1292/https://square-production.s3.amazonaws.com/files/4ae409269d1751901777d7f8fac026e1fa3b9679/original.jpeg"
+    ],
+    "merchant_uid": "5a6d2a18f7a0e2001a70861a",
+    "vendor_id": "72FC4853VM69S",
+    "square_location_id": "6830YBMJ6C4ST",
+    "square_access_token": "sq0atp-4eUZQfY1E2ZRW5ffVma4xQ",
+    "product_images": {}
+  }]
